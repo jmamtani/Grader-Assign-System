@@ -17,7 +17,7 @@ With a user-friendly interface and powerful features, the **OSU Course Grading S
 
 ## Installation
 
-1. Clone the repository: `git clone <https://github.com/cse-3901-sharkey/2024-Sp-Team-1-Lab-2>`
+1. Clone the repository: `git clone this repository`
 2. Install dependencies: `bundle install`
 3. Set up the database: `rails db:create db:migrate`
 4. Create default admin account: `rails db:seed` (email: admin.1@osu.edu, password: Password123)
