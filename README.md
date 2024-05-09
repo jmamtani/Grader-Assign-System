@@ -1,6 +1,6 @@
-# OSU Course Grading System
+# Course Grading System
 
-The **OSU Course Grading System** is a smart web app created with Ruby on Rails. It helps the CSE department at Ohio State University assign undergrads to the right course sections for grading.
+The **Course Grading System** is a smart web app created with Ruby on Rails. It helps the CSE department at Ohio State University assign undergrads to the right course sections for grading.
 
 This app makes it easy for department staff to match qualified students with specific course sections, making grading smoother. It simplifies the process of coordinating students with the right sections, reducing complexity and errors.
 
